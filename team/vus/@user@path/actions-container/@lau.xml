@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Lau" pacingEnd="0" pacingMode="MODE_NO_PACING" pacingStart="0"
+    pacingValue="0" slaProfileEnabled="false"
+    uid="93598a2e-eb34-4739-92d0-6ca0a72c8f5b" weightsEnabled="false">
+    <weighted-embedded-action uid="c445a3f0-8306-4529-8ed4-ed6030c7d4f9"/>
+</basic-logical-action-container>

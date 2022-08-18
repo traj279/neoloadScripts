@@ -1,0 +1,5 @@
+<http-server hostname="allianzindiaapps.web.allianz" port="443"
+    ssl="true" uid="allianzindiaapps.web.allianz"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

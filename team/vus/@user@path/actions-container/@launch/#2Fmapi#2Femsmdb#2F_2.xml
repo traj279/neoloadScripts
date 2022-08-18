@@ -1,0 +1,72 @@
+<http-page executeResourcesDynamically="false" name="/mapi/emsmdb/_2"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/eaef83d8-6fbe-486a-b2b6-99807de6ef53.zip"
+    slaProfileEnabled="false" thinkTime="2186"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="eaef83d8-6fbe-486a-b2b6-99807de6ef53">
+    <embedded-action>9da49d7b-2566-4a2d-a014-dd9dcf4a3906</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/mapi/emsmdb/" path="/mapi/emsmdb/" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/eaef83d8-6fbe-486a-b2b6-99807de6ef53.zip"
+    recordedResponseCode="401" responseSize="0"
+    serverUid="outlook.office365.com" slaProfileEnabled="false"
+    uid="9da49d7b-2566-4a2d-a014-dd9dcf4a3906" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[L289RXhjaGFuZ2VMYWJzL291PUV4Y2hhbmdlIEFkbWluaXN0cmF0aXZlIEdyb3VwIChGWURJQk9IRjIzU1BETFQpL2NuPVJlY2lwaWVudHMvY249ZWE0NDFkMTRhZjVlNGZiYWIzYTk3NzNlYjk1NDBkYzAteWxtOWg4eAAAAAAA5AQAAAkEAAAJBAAAzAAAAAAABADEAMQANAABAjeJQQABAAAAAAAAAAAAAAAAACAAAAAAAAIAAABFAHQAaABlAHIAbgBlAHQAMAAAABgAARgBAAAACzMn4azppEmd1iv4I3UtVhwAAgQBAAAAqN81uYXL00Ww2YDAdJ0TrRQAAAA0AAILAQAAAMPWRxB1SU5IugJWnHE73bocAAAATwBVAFQATABPAE8ASwAuAEUAWABFAAAAIAABSjAdDLfenQxJobl5CoambeAAAAAAAgAAAAEAAAAIAAFSAQAAAA==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_9da49d7b-2566-4a2d-a014-dd9dcf4a3906</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9da49d7b-2566-4a2d-a014-dd9dcf4a3906.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="MailboxId"
+        recordRawValue="c84b3486-8ba1-465d-8fc1-291d268b8e81@allianz.com"
+        separator="="
+        value="c84b3486-8ba1-465d-8fc1-291d268b8e81@allianz.com" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/mapi-http"/>
+    <header name="Accept-Auth" value="badger,Wlid1.1,Bearer,Basic,NTLM,Digest,Kerberos,Negotiate,Nego2"/>
+    <header name="Authorization" value="Bearer"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Client-Request-Id" value="{E43A4222-C5D2-4FE7-A187-660C0142250A}"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Content-Type" value="application/mapi-http"/>
+    <header name="Cookie" value="MapiContext=MAPIAAAAAOS3j9+NvYnEhr6NtYKhk6ORo46+hquaq4u5irCFvYe2hN79zPnJ+Mr+zvjB98AtAAAAAAAA;MapiRouting=UlVNOjBhMDFkNDRmLWRiMjktNDM0Yi1hOGZlLTQyZWEyZTliYTQ3MjosSueIMX3aCA==;MapiSequence=196-ioykYw=="/>
+    <header name="Host" value="outlook.office365.com"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="User-Agent" value="Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.14326; Pro)"/>
+    <header name="X-Accept" value="application/json"/>
+    <header name="X-ClientApplication" value="Outlook/16.0.14326.20344"/>
+    <header name="X-ClientInfo" value="{E127330B-E9AC-49A4-9DD6-2BF823752D56}:157520020"/>
+    <header name="X-FeatureVersion" value="1"/>
+    <header name="X-MS-CookieUri-Requested" value="t"/>
+    <header name="X-MS-Negotiate" value="Server"/>
+    <header name="X-RequestId" value="{C7C5ACCF-8D65-42A8-963E-9C25CBC7CDBD}:1"/>
+    <header name="X-RequestType" value="Connect"/>
+    <header name="X-User-Identity" value="ajin.sudhir@allianz.com"/>
+    <responseHeaders>HTTP/1.1 401 &#xd;
+Server: Microsoft-IIS/10.0&#xd;
+request-id: eba5861b-2a2e-58b9-ab4b-0bf21b66b7d5&#xd;
+Alt-Svc: h3=":443",h3-29=":443"&#xd;
+X-CalculatedBETarget: AS8PR04MB8387.eurprd04.PROD.OUTLOOK.COM&#xd;
+X-BackEndHttpStatus: 401&#xd;
+Set-Cookie: MapiRouting=UlVNOjBhMDFkNDRmLWRiMjktNDM0Yi1hOGZlLTQyZWEyZTliYTQ3MjqOn0iCMn3aCA==; path=/mapi/; secure; HttpOnly&#xd;
+X-ServerApplication: Exchange/15.20.5504.025&#xd;
+X-RequestId: {C7C5ACCF-8D65-42A8-963E-9C25CBC7CDBD}:1&#xd;
+X-ClientInfo: {E127330B-E9AC-49A4-9DD6-2BF823752D56}:157520020&#xd;
+X-RequestType: Connect&#xd;
+X-RUM-Validated: 1&#xd;
+x-ms-accept-auth-ack: 1&#xd;
+X-DiagInfo: AS8PR04MB8387&#xd;
+X-BEServer: AS8PR04MB8387&#xd;
+X-Proxy-RoutingCorrectness: 1&#xd;
+X-Proxy-BackendServerStatus: 401&#xd;
+X-FirstHopCafeEFZ: HHN&#xd;
+X-FEProxyInfo: FR0P281CA0148.DEUP281.PROD.OUTLOOK.COM&#xd;
+X-FEEFZInfo: HHN&#xd;
+X-Powered-By: ASP.NET&#xd;
+X-FEServer: FR0P281CA0148&#xd;
+WWW-Authenticate: Bearer client_id="00000002-0000-0ff1-ce00-000000000000", trusted_issuers="00000001-0000-0000-c000-000000000000@*", token_types="app_asserted_user_v1 service_asserted_app_v1", authorization_uri="https://login.windows.net/common/oauth2/authorize",Basic Realm=""&#xd;
+Date: Sat, 13 Aug 2022 13:48:30 GMT&#xd;
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

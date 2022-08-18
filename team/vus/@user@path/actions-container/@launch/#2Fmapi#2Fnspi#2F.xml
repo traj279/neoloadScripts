@@ -1,0 +1,155 @@
+<http-page executeResourcesDynamically="false" name="/mapi/nspi/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/ab303af9-ea25-4aaa-bc12-f5ed8ecc78da.zip"
+    slaProfileEnabled="false" thinkTime="5080"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ab303af9-ea25-4aaa-bc12-f5ed8ecc78da">
+    <embedded-action>151175d4-b3cd-462d-bdf1-1fe4328a0426</embedded-action>
+    <embedded-action>c9c4a4d9-99ca-4588-8afb-e6eac529be01</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/mapi-http"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/mapi/nspi/" path="/mapi/nspi/" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/ab303af9-ea25-4aaa-bc12-f5ed8ecc78da.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="outlook.office365.com" slaProfileEnabled="false"
+    uid="151175d4-b3cd-462d-bdf1-1fe4328a0426" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[AAAAAP8AAAAAAAAAAA==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_151175d4-b3cd-462d-bdf1-1fe4328a0426</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_151175d4-b3cd-462d-bdf1-1fe4328a0426.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="MailboxId"
+        recordRawValue="c84b3486-8ba1-465d-8fc1-291d268b8e81@allianz.com"
+        separator="="
+        value="c84b3486-8ba1-465d-8fc1-291d268b8e81@allianz.com" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/mapi-http"/>
+    <header name="Accept-Auth" value="badger,Wlid1.1,Bearer,Basic,NTLM,Digest,Kerberos,Negotiate,Nego2"/>
+    <header name="Authorization" value="Bearer eyJ0eXAiOiJKV1QiLCJub25jZSI6InltdGlfV1JETWVyNHhOak5pS0VLbnE3eTJXRWNsejBNUVVPR245YWV5aDQiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSIsImtpZCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSJ9.eyJhdWQiOiJodHRwczovL291dGxvb2sub2ZmaWNlMzY1LmNvbS8iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC82ZTA2ZTQyZC02OTI1LTQ3YzYtYjllNy05NTgxYzdjYTMwMmEvIiwiaWF0IjoxNjYwMzQxNDI3LCJuYmYiOjE2NjAzNDE0MjcsImV4cCI6MTY2MDQzMDcwMiwiYWNjdCI6MCwiYWNyIjoiMSIsImFpbyI6IkFTUUEyLzhUQUFBQVgzSGRrRnp2cExDZmpraWlwVWlXWDVzNXRQcjJqT3NicmRra1prdVdoMDA9IiwiYW1yIjpbInJzYSJdLCJhcHBfZGlzcGxheW5hbWUiOiJNaWNyb3NvZnQgT2ZmaWNlIiwiYXBwaWQiOiJkMzU5MGVkNi01MmIzLTQxMDItYWVmZi1hYWQyMjkyYWIwMWMiLCJhcHBpZGFjciI6IjAiLCJjYXBvbGlkc19sYXRlYmluZCI6WyI5OTE2YmZlMi1iNTQxLTQ5NjQtOWVhNC1kODdlMTg0NjY0YWUiXSwiY25mIjp7InRiaCI6InFWV0ZsTU1kL2IyYnNiVG9wR1hyN0Z5S00yNXg4NTFPdDAwTXA5cUpWcHc9In0sImRldmljZWlkIjoiNDFmNjQ4NWEtMDgzMS00YmYxLWJkMjctMzgxOGE4NWEwZDdlIiwiZV9leHAiOjM0ODE3NSwiZW5mcG9saWRzIjpbIjk5MTZiZmUyLWI1NDEtNDk2NC05ZWE0LWQ4N2UxODQ2NjRhZSJdLCJmYW1pbHlfbmFtZSI6IlN1ZGhpciIsImdpdmVuX25hbWUiOiJBamluIiwiaW5fY29ycCI6InRydWUiLCJpcGFkZHIiOiIxOTkuMjQ3LjM4LjExIiwibmFtZSI6IlN1ZGhpciwgQWppbiAoQWxsaWFueiBUZWNobm9sb2d5KSIsIm9pZCI6IjE3ZGJiNjg4LTA0ZmMtNDllNi04ODA5LTY2MjdjZWQ4ZTBhYiIsIm9ucHJlbV9zaWQiOiJTLTEtNS0yMS0yMDA2MTkwNzYwLTM0NTk1NTMxOTMtMTY1MTk2NTU1OC01MTg4ODU4IiwicHVpZCI6IjEwMDMyMDAwN0VEMkNCNDkiLCJyaCI6IjAuQVJFQUxlUUdiaVZweGtlNTU1V0J4OG93S2dJQUFBQUFBUEVQemdBQUFBQUFBQUFSQURvLiIsInNjcCI6IkJyYW5mb3JkLUludGVybmFsLlJlYWRXcml0ZSBDYWxlbmRhcnMuUmVhZFdyaXRlIENhbGVuZGFycy5SZWFkV3JpdGUuU2hhcmVkIENvbnRhY3RzLlJlYWRXcml0ZSBDb250YWN0cy5SZWFkV3JpdGUuU2hhcmVkIEVBUy5BY2Nlc3NBc1VzZXIuQWxsIEVvcFBvbGljeVN5bmMuQWNjZXNzQXNVc2VyLkFsbCBFb3BQc29yV3MuQWNjZXNzQXNVc2VyLkFsbCBFV1MuQWNjZXNzQXNVc2VyLkFsbCBGaWxlcy5SZWFkV3JpdGUuQWxsIEZpbGVzLlJlYWRXcml0ZS5TaGFyZWQgR3JvdXAuUmVhZFdyaXRlLkFsbCBNYWlsLlJlYWRXcml0ZSBNYWlsLlJlYWRXcml0ZS5TaGFyZWQgTWFpbC5TZW5kIE1haWwuU2VuZC5TaGFyZWQgTWFpbGJveFNldHRpbmdzLlJlYWRXcml0ZSBNYXBpSHR0cC5BY2Nlc3NBc1VzZXIuQWxsIE1lc3NhZ2VSZWFjdGlvbi1JbnRlcm5hbC5VcGRhdGUgTm90ZXMuUmVhZCBOb3Rlcy5SZWFkV3JpdGUgT2FiLkFjY2Vzc0FzVXNlci5BbGwgT3V0bG9va1NlcnZpY2UuQWNjZXNzQXNVc2VyLkFsbCBPV0EuQWNjZXNzQXNVc2VyLkFsbCBQZW9wbGUuUmVhZCBQZW9wbGUuUmVhZFdyaXRlIFBsYWNlLlJlYWQuQWxsIFByaXZpbGVnZS5FTFQgU2lnbmFscy5SZWFkIFNpZ25hbHMuUmVhZFdyaXRlIFN1YnN0cmF0ZVNlYXJjaC1JbnRlcm5hbC5SZWFkV3JpdGUgVGFncy5SZWFkV3JpdGUgVGFza3MuUmVhZFdyaXRlIFRhc2tzLlJlYWRXcml0ZS5TaGFyZWQgVG9kby1JbnRlcm5hbC5SZWFkV3JpdGUgVXNlci5SZWFkQmFzaWMgVXNlci5SZWFkQmFzaWMuQWxsIHVzZXJfaW1wZXJzb25hdGlvbiBVc2VyLUludGVybmFsLlJlYWRXcml0ZSIsInNpZCI6IjZkMjI5OTYwLWM3YzktNDZjMS1hN2Y0LTZmMmI5NjY0NGQyMiIsInNpZ25pbl9zdGF0ZSI6WyJkdmNfbW5nZCIsImR2Y19kbWpkIiwiaW5rbm93bm50d2siXSwic3ViIjoieVdXRWk4VDdYcjE3VldaTi03SmxDTXRtQW9HN1RSNWtBU1p2SldyWG9aSSIsInRpZCI6IjZlMDZlNDJkLTY5MjUtNDdjNi1iOWU3LTk1ODFjN2NhMzAyYSIsInVuaXF1ZV9uYW1lIjoiYWppbi5zdWRoaXJAYWxsaWFuei5jb20iLCJ1cG4iOiJhamluLnN1ZGhpckBhbGxpYW56LmNvbSIsInV0aSI6Ik1hUmo4YzZaVUVpSXJBb0hTcFlCQUEiLCJ2ZXIiOiIxLjAiLCJ3aWRzIjpbImI3OWZiZjRkLTNlZjktNDY4OS04MTQzLTc2YjE5NGU4NTUwOSJdLCJ4bXNfY2MiOlsiQ1AxIl0sInhtc19ycF9pcGFkZHIiOiIxOTkuMjQ3LjM4LjIxOSIsInhtc19zc20iOiIxIn0.fVVx7n_vMgF-1GlzEPuEO_OgBsQr78_gsA0b0EvbX4VN3ECeiAUNvwftIrlPXnXmElb2T9u2CB8xuY9sTZuWcRFqTs1ibZCbfDir2EOrpAsfZZRcoK88f_Ojo3yhi4zaeXSaNDHd0wT1SjVFixjtCMql-GbLy7ecGWQxe8A3ee2U_Cf1bZtx8QHY0_A63Hnyt9rTMKVdjkeDpy0652Mb3QIr8uG5mDiCF7uY3h6Lv_RwBOAtlP7eZyYG_MwOCEeijYaB9e4ynJm5UypuGLp-JwqaIPDL4RraXf98c4LFke8cXogWdju4vmtqV8WUpm8LylBTrOEzBzLxndZ7l6Oe8g"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Client-Request-Id" value="{5FCD7BAE-C35C-4722-B0CF-B0EF9C322030}"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Content-Type" value="application/mapi-http"/>
+    <header name="Cookie" value="MapiContext=MAPIAAAAAOS3j9+NvYnEhr6NtYKhk6ORo46+hquaq4u5irCFsoi8jdf0xffG8Mn4yfzP+cUMAAAAAAAA;MapiRouting=UlVNOjM1M2U2ZTRiLWZjMWEtNDU2MC04MzcxLWFlNDMwMTczNGM5ZDo+f9YJMn3aCA==;MapiSequence=8-iE/Cew=="/>
+    <header name="Host" value="outlook.office365.com"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="User-Agent" value="Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.14326; Pro)"/>
+    <header name="X-Accept" value="application/json"/>
+    <header name="X-ClientApplication" value="Outlook/16.0.14326.20344"/>
+    <header name="X-ClientInfo" value="{E127330B-E9AC-49A4-9DD6-2BF823752D56}:157520005"/>
+    <header name="X-FeatureVersion" value="1"/>
+    <header name="X-MS-CookieUri-Requested" value="t"/>
+    <header name="X-MS-Negotiate" value="Server"/>
+    <header name="X-RequestId" value="{59D44125-38EA-4085-8936-2838B32A1988}:31"/>
+    <header name="X-RequestType" value="DNToMId"/>
+    <header name="X-User-Identity" value="ajin.sudhir@allianz.com"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: private&#xd;
+Transfer-Encoding: chunked&#xd;
+Content-Type: application/mapi-http&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+request-id: ab2db0cb-efc9-d5a4-b1d1-af8702baac7c&#xd;
+Alt-Svc: h3=":443",h3-29=":443"&#xd;
+X-CalculatedBETarget: AS8PR04MB8387.eurprd04.PROD.OUTLOOK.COM&#xd;
+X-BackEndHttpStatus: 200&#xd;
+Set-Cookie: MapiRouting=UlVNOjM1M2U2ZTRiLWZjMWEtNDU2MC04MzcxLWFlNDMwMTczNGM5ZDo+f9YJMn3aCA==; path=/mapi/; secure; HttpOnly&#xd;
+Set-Cookie: MapiSequence=9-0Oo4BA==; path=/mapi/nspi; secure; HttpOnly&#xd;
+Set-Cookie: MapiContext=MAPIAAAAAOS3j9+NvYnEhr6NtYKhk6ORo46+hquaq4u5irCFsoi8jdf0xffG8Mn4yfzP+cUMAAAAAAAA; path=/mapi/nspi; secure; HttpOnly&#xd;
+X-ServerApplication: Exchange/15.20.5504.025&#xd;
+X-RequestId: {59D44125-38EA-4085-8936-2838B32A1988}:31&#xd;
+X-ClientInfo: {E127330B-E9AC-49A4-9DD6-2BF823752D56}:157520005&#xd;
+X-RequestType: DNToMId&#xd;
+x-ms-appId: d3590ed6-52b3-4102-aeff-aad2292ab01c&#xd;
+Restrict-Access-Confirm: 1&#xd;
+X-PendingPeriod: 30000&#xd;
+X-ExpirationInfo: 900000&#xd;
+X-ResponseCode: 0&#xd;
+X-ServiceCode: 0&#xd;
+X-AspNet-Version: 4.0.30319&#xd;
+X-DiagInfo: AS8PR04MB8387&#xd;
+X-BEServer: AS8PR04MB8387&#xd;
+X-Proxy-RoutingCorrectness: 1&#xd;
+X-Proxy-BackendServerStatus: 200&#xd;
+X-FirstHopCafeEFZ: HHN&#xd;
+X-FEProxyInfo: FR3P281CA0015.DEUP281.PROD.OUTLOOK.COM&#xd;
+X-FEEFZInfo: HHN&#xd;
+X-Powered-By: ASP.NET&#xd;
+X-FEServer: FR3P281CA0015&#xd;
+Date: Sat, 13 Aug 2022 13:48:28 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/mapi-http"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/mapi/nspi/" path="/mapi/nspi/" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/ab303af9-ea25-4aaa-bc12-f5ed8ecc78da.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="outlook.office365.com" slaProfileEnabled="false"
+    uid="c9c4a4d9-99ca-4588-8afb-e6eac529be01" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[AAAAAP8AAAAAAAAAAA==]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_c9c4a4d9-99ca-4588-8afb-e6eac529be01</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c9c4a4d9-99ca-4588-8afb-e6eac529be01.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="MailboxId"
+        recordRawValue="c84b3486-8ba1-465d-8fc1-291d268b8e81@allianz.com"
+        separator="="
+        value="c84b3486-8ba1-465d-8fc1-291d268b8e81@allianz.com" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/mapi-http"/>
+    <header name="Accept-Auth" value="badger,Wlid1.1,Bearer,Basic,NTLM,Digest,Kerberos,Negotiate,Nego2"/>
+    <header name="Authorization" value="Bearer eyJ0eXAiOiJKV1QiLCJub25jZSI6InltdGlfV1JETWVyNHhOak5pS0VLbnE3eTJXRWNsejBNUVVPR245YWV5aDQiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSIsImtpZCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSJ9.eyJhdWQiOiJodHRwczovL291dGxvb2sub2ZmaWNlMzY1LmNvbS8iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC82ZTA2ZTQyZC02OTI1LTQ3YzYtYjllNy05NTgxYzdjYTMwMmEvIiwiaWF0IjoxNjYwMzQxNDI3LCJuYmYiOjE2NjAzNDE0MjcsImV4cCI6MTY2MDQzMDcwMiwiYWNjdCI6MCwiYWNyIjoiMSIsImFpbyI6IkFTUUEyLzhUQUFBQVgzSGRrRnp2cExDZmpraWlwVWlXWDVzNXRQcjJqT3NicmRra1prdVdoMDA9IiwiYW1yIjpbInJzYSJdLCJhcHBfZGlzcGxheW5hbWUiOiJNaWNyb3NvZnQgT2ZmaWNlIiwiYXBwaWQiOiJkMzU5MGVkNi01MmIzLTQxMDItYWVmZi1hYWQyMjkyYWIwMWMiLCJhcHBpZGFjciI6IjAiLCJjYXBvbGlkc19sYXRlYmluZCI6WyI5OTE2YmZlMi1iNTQxLTQ5NjQtOWVhNC1kODdlMTg0NjY0YWUiXSwiY25mIjp7InRiaCI6InFWV0ZsTU1kL2IyYnNiVG9wR1hyN0Z5S00yNXg4NTFPdDAwTXA5cUpWcHc9In0sImRldmljZWlkIjoiNDFmNjQ4NWEtMDgzMS00YmYxLWJkMjctMzgxOGE4NWEwZDdlIiwiZV9leHAiOjM0ODE3NSwiZW5mcG9saWRzIjpbIjk5MTZiZmUyLWI1NDEtNDk2NC05ZWE0LWQ4N2UxODQ2NjRhZSJdLCJmYW1pbHlfbmFtZSI6IlN1ZGhpciIsImdpdmVuX25hbWUiOiJBamluIiwiaW5fY29ycCI6InRydWUiLCJpcGFkZHIiOiIxOTkuMjQ3LjM4LjExIiwibmFtZSI6IlN1ZGhpciwgQWppbiAoQWxsaWFueiBUZWNobm9sb2d5KSIsIm9pZCI6IjE3ZGJiNjg4LTA0ZmMtNDllNi04ODA5LTY2MjdjZWQ4ZTBhYiIsIm9ucHJlbV9zaWQiOiJTLTEtNS0yMS0yMDA2MTkwNzYwLTM0NTk1NTMxOTMtMTY1MTk2NTU1OC01MTg4ODU4IiwicHVpZCI6IjEwMDMyMDAwN0VEMkNCNDkiLCJyaCI6IjAuQVJFQUxlUUdiaVZweGtlNTU1V0J4OG93S2dJQUFBQUFBUEVQemdBQUFBQUFBQUFSQURvLiIsInNjcCI6IkJyYW5mb3JkLUludGVybmFsLlJlYWRXcml0ZSBDYWxlbmRhcnMuUmVhZFdyaXRlIENhbGVuZGFycy5SZWFkV3JpdGUuU2hhcmVkIENvbnRhY3RzLlJlYWRXcml0ZSBDb250YWN0cy5SZWFkV3JpdGUuU2hhcmVkIEVBUy5BY2Nlc3NBc1VzZXIuQWxsIEVvcFBvbGljeVN5bmMuQWNjZXNzQXNVc2VyLkFsbCBFb3BQc29yV3MuQWNjZXNzQXNVc2VyLkFsbCBFV1MuQWNjZXNzQXNVc2VyLkFsbCBGaWxlcy5SZWFkV3JpdGUuQWxsIEZpbGVzLlJlYWRXcml0ZS5TaGFyZWQgR3JvdXAuUmVhZFdyaXRlLkFsbCBNYWlsLlJlYWRXcml0ZSBNYWlsLlJlYWRXcml0ZS5TaGFyZWQgTWFpbC5TZW5kIE1haWwuU2VuZC5TaGFyZWQgTWFpbGJveFNldHRpbmdzLlJlYWRXcml0ZSBNYXBpSHR0cC5BY2Nlc3NBc1VzZXIuQWxsIE1lc3NhZ2VSZWFjdGlvbi1JbnRlcm5hbC5VcGRhdGUgTm90ZXMuUmVhZCBOb3Rlcy5SZWFkV3JpdGUgT2FiLkFjY2Vzc0FzVXNlci5BbGwgT3V0bG9va1NlcnZpY2UuQWNjZXNzQXNVc2VyLkFsbCBPV0EuQWNjZXNzQXNVc2VyLkFsbCBQZW9wbGUuUmVhZCBQZW9wbGUuUmVhZFdyaXRlIFBsYWNlLlJlYWQuQWxsIFByaXZpbGVnZS5FTFQgU2lnbmFscy5SZWFkIFNpZ25hbHMuUmVhZFdyaXRlIFN1YnN0cmF0ZVNlYXJjaC1JbnRlcm5hbC5SZWFkV3JpdGUgVGFncy5SZWFkV3JpdGUgVGFza3MuUmVhZFdyaXRlIFRhc2tzLlJlYWRXcml0ZS5TaGFyZWQgVG9kby1JbnRlcm5hbC5SZWFkV3JpdGUgVXNlci5SZWFkQmFzaWMgVXNlci5SZWFkQmFzaWMuQWxsIHVzZXJfaW1wZXJzb25hdGlvbiBVc2VyLUludGVybmFsLlJlYWRXcml0ZSIsInNpZCI6IjZkMjI5OTYwLWM3YzktNDZjMS1hN2Y0LTZmMmI5NjY0NGQyMiIsInNpZ25pbl9zdGF0ZSI6WyJkdmNfbW5nZCIsImR2Y19kbWpkIiwiaW5rbm93bm50d2siXSwic3ViIjoieVdXRWk4VDdYcjE3VldaTi03SmxDTXRtQW9HN1RSNWtBU1p2SldyWG9aSSIsInRpZCI6IjZlMDZlNDJkLTY5MjUtNDdjNi1iOWU3LTk1ODFjN2NhMzAyYSIsInVuaXF1ZV9uYW1lIjoiYWppbi5zdWRoaXJAYWxsaWFuei5jb20iLCJ1cG4iOiJhamluLnN1ZGhpckBhbGxpYW56LmNvbSIsInV0aSI6Ik1hUmo4YzZaVUVpSXJBb0hTcFlCQUEiLCJ2ZXIiOiIxLjAiLCJ3aWRzIjpbImI3OWZiZjRkLTNlZjktNDY4OS04MTQzLTc2YjE5NGU4NTUwOSJdLCJ4bXNfY2MiOlsiQ1AxIl0sInhtc19ycF9pcGFkZHIiOiIxOTkuMjQ3LjM4LjIxOSIsInhtc19zc20iOiIxIn0.fVVx7n_vMgF-1GlzEPuEO_OgBsQr78_gsA0b0EvbX4VN3ECeiAUNvwftIrlPXnXmElb2T9u2CB8xuY9sTZuWcRFqTs1ibZCbfDir2EOrpAsfZZRcoK88f_Ojo3yhi4zaeXSaNDHd0wT1SjVFixjtCMql-GbLy7ecGWQxe8A3ee2U_Cf1bZtx8QHY0_A63Hnyt9rTMKVdjkeDpy0652Mb3QIr8uG5mDiCF7uY3h6Lv_RwBOAtlP7eZyYG_MwOCEeijYaB9e4ynJm5UypuGLp-JwqaIPDL4RraXf98c4LFke8cXogWdju4vmtqV8WUpm8LylBTrOEzBzLxndZ7l6Oe8g"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Client-Request-Id" value="{8CDD6D6D-658B-4456-A9B0-4CF61CDFB237}"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Content-Type" value="application/mapi-http"/>
+    <header name="Cookie" value="MapiContext=MAPIAAAAAOS3j9+NvYnEhr6NtYKhk6ORo46+hquaq4u5irCFsoi8jdf0xffG8Mn4yfzP+cQMAAAAAAAA;MapiRouting=UlVNOjM1M2U2ZTRiLWZjMWEtNDU2MC04MzcxLWFlNDMwMTczNGM5ZDrc4NgJMn3aCA==;MapiSequence=17-8vTrCA=="/>
+    <header name="Host" value="outlook.office365.com"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="User-Agent" value="Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.14326; Pro)"/>
+    <header name="X-Accept" value="application/json"/>
+    <header name="X-ClientApplication" value="Outlook/16.0.14326.20344"/>
+    <header name="X-ClientInfo" value="{E127330B-E9AC-49A4-9DD6-2BF823752D56}:157520010"/>
+    <header name="X-FeatureVersion" value="1"/>
+    <header name="X-MS-CookieUri-Requested" value="t"/>
+    <header name="X-MS-Negotiate" value="Server"/>
+    <header name="X-RequestId" value="{4F6FBF7F-ACA8-4AD9-84E9-37ADF0EBEC6F}:40"/>
+    <header name="X-RequestType" value="DNToMId"/>
+    <header name="X-User-Identity" value="ajin.sudhir@allianz.com"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: private&#xd;
+Transfer-Encoding: chunked&#xd;
+Content-Type: application/mapi-http&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+request-id: 945ce1dc-7c53-0586-ec5c-7db8f60667d1&#xd;
+Alt-Svc: h3=":443",h3-29=":443"&#xd;
+X-CalculatedBETarget: AS8PR04MB8387.eurprd04.PROD.OUTLOOK.COM&#xd;
+X-BackEndHttpStatus: 200&#xd;
+Set-Cookie: MapiRouting=UlVNOjM1M2U2ZTRiLWZjMWEtNDU2MC04MzcxLWFlNDMwMTczNGM5ZDrc4NgJMn3aCA==; path=/mapi/; secure; HttpOnly&#xd;
+Set-Cookie: MapiSequence=18-dGzVAg==; path=/mapi/nspi; secure; HttpOnly&#xd;
+Set-Cookie: MapiContext=MAPIAAAAAOS3j9+NvYnEhr6NtYKhk6ORo46+hquaq4u5irCFsoi8jdf0xffG8Mn4yfzP+cQMAAAAAAAA; path=/mapi/nspi; secure; HttpOnly&#xd;
+X-ServerApplication: Exchange/15.20.5504.025&#xd;
+X-RequestId: {4F6FBF7F-ACA8-4AD9-84E9-37ADF0EBEC6F}:40&#xd;
+X-ClientInfo: {E127330B-E9AC-49A4-9DD6-2BF823752D56}:157520010&#xd;
+X-RequestType: DNToMId&#xd;
+x-ms-appId: d3590ed6-52b3-4102-aeff-aad2292ab01c&#xd;
+Restrict-Access-Confirm: 1&#xd;
+X-PendingPeriod: 30000&#xd;
+X-ExpirationInfo: 900000&#xd;
+X-ResponseCode: 0&#xd;
+X-ServiceCode: 0&#xd;
+X-AspNet-Version: 4.0.30319&#xd;
+X-DiagInfo: AS8PR04MB8387&#xd;
+X-BEServer: AS8PR04MB8387&#xd;
+X-Proxy-RoutingCorrectness: 1&#xd;
+X-Proxy-BackendServerStatus: 200&#xd;
+X-FirstHopCafeEFZ: HHN&#xd;
+X-FEProxyInfo: FR3P281CA0009.DEUP281.PROD.OUTLOOK.COM&#xd;
+X-FEEFZInfo: HHN&#xd;
+X-Powered-By: ASP.NET&#xd;
+X-FEServer: FR3P281CA0009&#xd;
+Date: Sat, 13 Aug 2022 13:48:28 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

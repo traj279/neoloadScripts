@@ -1,0 +1,14 @@
+# Project description file
+
+project.name=my_project
+project.version=8.3
+project.original.version=8.3
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.0.0
+project.is-open-test-settings-after-upload=false
+project.id=8b88d9ef-6699-4c13-81a3-b5459262de35
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/traj279/neoloadScripts.git

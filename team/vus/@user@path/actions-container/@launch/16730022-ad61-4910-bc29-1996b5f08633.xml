@@ -1,0 +1,59 @@
+<http-soap-action actionType="1" contentType="text/xml; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="GetUserUnifiedGroups" path="/EWS/Exchange.asmx"
+    postType="4" recordedResponseCode="200" responseSize="1578"
+    serverUid="outlook.office365.com" slaProfileEnabled="false"
+    soap-mode="0" uid="16730022-ad61-4910-bc29-1996b5f08633" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@user@path/%resources%/recorded-responses/res_16730022-ad61-4910-bc29-1996b5f08633.xml</responsePageFileDescription>
+    <requestContentFileDescription>team/vus/@user@path/%resources%/recorded-requests/req_16730022-ad61-4910-bc29-1996b5f08633.txt</requestContentFileDescription>
+    <header name="Accept-Auth" value="badger,Wlid1.1,Bearer,Basic,NTLM,Digest,Kerberos,Negotiate,Nego2"/>
+    <header name="Authorization" value="Bearer eyJ0eXAiOiJKV1QiLCJub25jZSI6InltdGlfV1JETWVyNHhOak5pS0VLbnE3eTJXRWNsejBNUVVPR245YWV5aDQiLCJhbGciOiJSUzI1NiIsIng1dCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSIsImtpZCI6IjJaUXBKM1VwYmpBWVhZR2FYRUpsOGxWMFRPSSJ9.eyJhdWQiOiJodHRwczovL291dGxvb2sub2ZmaWNlMzY1LmNvbS8iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC82ZTA2ZTQyZC02OTI1LTQ3YzYtYjllNy05NTgxYzdjYTMwMmEvIiwiaWF0IjoxNjYwMzQxNDI3LCJuYmYiOjE2NjAzNDE0MjcsImV4cCI6MTY2MDQzMDcwMiwiYWNjdCI6MCwiYWNyIjoiMSIsImFpbyI6IkFTUUEyLzhUQUFBQVgzSGRrRnp2cExDZmpraWlwVWlXWDVzNXRQcjJqT3NicmRra1prdVdoMDA9IiwiYW1yIjpbInJzYSJdLCJhcHBfZGlzcGxheW5hbWUiOiJNaWNyb3NvZnQgT2ZmaWNlIiwiYXBwaWQiOiJkMzU5MGVkNi01MmIzLTQxMDItYWVmZi1hYWQyMjkyYWIwMWMiLCJhcHBpZGFjciI6IjAiLCJjYXBvbGlkc19sYXRlYmluZCI6WyI5OTE2YmZlMi1iNTQxLTQ5NjQtOWVhNC1kODdlMTg0NjY0YWUiXSwiY25mIjp7InRiaCI6InFWV0ZsTU1kL2IyYnNiVG9wR1hyN0Z5S00yNXg4NTFPdDAwTXA5cUpWcHc9In0sImRldmljZWlkIjoiNDFmNjQ4NWEtMDgzMS00YmYxLWJkMjctMzgxOGE4NWEwZDdlIiwiZV9leHAiOjM0ODE3NSwiZW5mcG9saWRzIjpbIjk5MTZiZmUyLWI1NDEtNDk2NC05ZWE0LWQ4N2UxODQ2NjRhZSJdLCJmYW1pbHlfbmFtZSI6IlN1ZGhpciIsImdpdmVuX25hbWUiOiJBamluIiwiaW5fY29ycCI6InRydWUiLCJpcGFkZHIiOiIxOTkuMjQ3LjM4LjExIiwibmFtZSI6IlN1ZGhpciwgQWppbiAoQWxsaWFueiBUZWNobm9sb2d5KSIsIm9pZCI6IjE3ZGJiNjg4LTA0ZmMtNDllNi04ODA5LTY2MjdjZWQ4ZTBhYiIsIm9ucHJlbV9zaWQiOiJTLTEtNS0yMS0yMDA2MTkwNzYwLTM0NTk1NTMxOTMtMTY1MTk2NTU1OC01MTg4ODU4IiwicHVpZCI6IjEwMDMyMDAwN0VEMkNCNDkiLCJyaCI6IjAuQVJFQUxlUUdiaVZweGtlNTU1V0J4OG93S2dJQUFBQUFBUEVQemdBQUFBQUFBQUFSQURvLiIsInNjcCI6IkJyYW5mb3JkLUludGVybmFsLlJlYWRXcml0ZSBDYWxlbmRhcnMuUmVhZFdyaXRlIENhbGVuZGFycy5SZWFkV3JpdGUuU2hhcmVkIENvbnRhY3RzLlJlYWRXcml0ZSBDb250YWN0cy5SZWFkV3JpdGUuU2hhcmVkIEVBUy5BY2Nlc3NBc1VzZXIuQWxsIEVvcFBvbGljeVN5bmMuQWNjZXNzQXNVc2VyLkFsbCBFb3BQc29yV3MuQWNjZXNzQXNVc2VyLkFsbCBFV1MuQWNjZXNzQXNVc2VyLkFsbCBGaWxlcy5SZWFkV3JpdGUuQWxsIEZpbGVzLlJlYWRXcml0ZS5TaGFyZWQgR3JvdXAuUmVhZFdyaXRlLkFsbCBNYWlsLlJlYWRXcml0ZSBNYWlsLlJlYWRXcml0ZS5TaGFyZWQgTWFpbC5TZW5kIE1haWwuU2VuZC5TaGFyZWQgTWFpbGJveFNldHRpbmdzLlJlYWRXcml0ZSBNYXBpSHR0cC5BY2Nlc3NBc1VzZXIuQWxsIE1lc3NhZ2VSZWFjdGlvbi1JbnRlcm5hbC5VcGRhdGUgTm90ZXMuUmVhZCBOb3Rlcy5SZWFkV3JpdGUgT2FiLkFjY2Vzc0FzVXNlci5BbGwgT3V0bG9va1NlcnZpY2UuQWNjZXNzQXNVc2VyLkFsbCBPV0EuQWNjZXNzQXNVc2VyLkFsbCBQZW9wbGUuUmVhZCBQZW9wbGUuUmVhZFdyaXRlIFBsYWNlLlJlYWQuQWxsIFByaXZpbGVnZS5FTFQgU2lnbmFscy5SZWFkIFNpZ25hbHMuUmVhZFdyaXRlIFN1YnN0cmF0ZVNlYXJjaC1JbnRlcm5hbC5SZWFkV3JpdGUgVGFncy5SZWFkV3JpdGUgVGFza3MuUmVhZFdyaXRlIFRhc2tzLlJlYWRXcml0ZS5TaGFyZWQgVG9kby1JbnRlcm5hbC5SZWFkV3JpdGUgVXNlci5SZWFkQmFzaWMgVXNlci5SZWFkQmFzaWMuQWxsIHVzZXJfaW1wZXJzb25hdGlvbiBVc2VyLUludGVybmFsLlJlYWRXcml0ZSIsInNpZCI6IjZkMjI5OTYwLWM3YzktNDZjMS1hN2Y0LTZmMmI5NjY0NGQyMiIsInNpZ25pbl9zdGF0ZSI6WyJkdmNfbW5nZCIsImR2Y19kbWpkIiwiaW5rbm93bm50d2siXSwic3ViIjoieVdXRWk4VDdYcjE3VldaTi03SmxDTXRtQW9HN1RSNWtBU1p2SldyWG9aSSIsInRpZCI6IjZlMDZlNDJkLTY5MjUtNDdjNi1iOWU3LTk1ODFjN2NhMzAyYSIsInVuaXF1ZV9uYW1lIjoiYWppbi5zdWRoaXJAYWxsaWFuei5jb20iLCJ1cG4iOiJhamluLnN1ZGhpckBhbGxpYW56LmNvbSIsInV0aSI6Ik1hUmo4YzZaVUVpSXJBb0hTcFlCQUEiLCJ2ZXIiOiIxLjAiLCJ3aWRzIjpbImI3OWZiZjRkLTNlZjktNDY4OS04MTQzLTc2YjE5NGU4NTUwOSJdLCJ4bXNfY2MiOlsiQ1AxIl0sInhtc19ycF9pcGFkZHIiOiIxOTkuMjQ3LjM4LjIxOSIsInhtc19zc20iOiIxIn0.fVVx7n_vMgF-1GlzEPuEO_OgBsQr78_gsA0b0EvbX4VN3ECeiAUNvwftIrlPXnXmElb2T9u2CB8xuY9sTZuWcRFqTs1ibZCbfDir2EOrpAsfZZRcoK88f_Ojo3yhi4zaeXSaNDHd0wT1SjVFixjtCMql-GbLy7ecGWQxe8A3ee2U_Cf1bZtx8QHY0_A63Hnyt9rTMKVdjkeDpy0652Mb3QIr8uG5mDiCF7uY3h6Lv_RwBOAtlP7eZyYG_MwOCEeijYaB9e4ynJm5UypuGLp-JwqaIPDL4RraXf98c4LFke8cXogWdju4vmtqV8WUpm8LylBTrOEzBzLxndZ7l6Oe8g"/>
+    <header name="Cache-Control" value="no-cache"/>
+    <header name="Client-Request-Id" value="{E6DA8128-3BFD-4966-BCCB-9BCC5D422372}"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Content-Type" value="text/xml"/>
+    <header name="Cookie" value="OutlookSession=&quot;{67539143-7A6D-4005-9A9E-F6508E0A616D}&quot;; exchangecookie=e1927e0540ab40879fa159529ec78d32"/>
+    <header name="Depth" value="0"/>
+    <header name="Host" value="outlook.office365.com"/>
+    <header name="Pragma" value="no-cache"/>
+    <header name="User-Agent" value="Microsoft Office/16.0 (Windows NT 10.0; Microsoft Outlook 16.0.14326; Pro)"/>
+    <header name="X-Accept" value="application/json"/>
+    <header name="X-FeatureVersion" value="1"/>
+    <header name="X-MS-CookieUri-Requested" value="t"/>
+    <header name="X-MS-Negotiate" value="Server"/>
+    <header name="X-User-Identity" value="ajin.sudhir@allianz.com"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: private&#xd;
+Transfer-Encoding: chunked&#xd;
+Content-Type: text/xml; charset=utf-8&#xd;
+Server: Microsoft-IIS/10.0&#xd;
+request-id: e8192683-5873-7594-8993-f53eb7e51148&#xd;
+Alt-Svc: h3=":443",h3-29=":443"&#xd;
+X-CalculatedFETarget: AS9PR06CU006.internal.outlook.com&#xd;
+X-BackEndHttpStatus: 200&#xd;
+Set-Cookie: exchangecookie=e1927e0540ab40879fa159529ec78d32; path=/; secure&#xd;
+X-CalculatedBETarget: AS8PR04MB8387.eurprd04.PROD.OUTLOOK.COM&#xd;
+X-BackEndHttpStatus: 200&#xd;
+X-RUM-Validated: 1&#xd;
+x-ms-appId: d3590ed6-52b3-4102-aeff-aad2292ab01c&#xd;
+Restrict-Access-Confirm: 1&#xd;
+x-EwsHandler: GetUserUnifiedGroups&#xd;
+X-AspNet-Version: 4.0.30319&#xd;
+X-BeSku: WCS6&#xd;
+X-DiagInfo: AS8PR04MB8387&#xd;
+X-BEServer: AS8PR04MB8387&#xd;
+X-Proxy-RoutingCorrectness: 1&#xd;
+X-Proxy-BackendServerStatus: 200&#xd;
+X-FEProxyInfo: FR0P281CA0140.DEUP281.PROD.OUTLOOK.COM&#xd;
+X-FEEFZInfo: HHN&#xd;
+X-FEServer: AS9PR06CA0159&#xd;
+X-FirstHopCafeEFZ: HHN&#xd;
+X-Powered-By: ASP.NET&#xd;
+X-FEServer: FR0P281CA0140&#xd;
+Date: Sat, 13 Aug 2022 13:48:31 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Header><RequestServerVersion Version="V2015_10_15" xmlns="http://schemas.microsoft.com/exchange/services/2006/types"/><MailboxCulture xmlns="http://schemas.microsoft.com/exchange/services/2006/types">en-US</MailboxCulture></s:Header><s:Body><a:GetUserUnifiedGroups xmlns="http://schemas.microsoft.com/exchange/services/2006/types" xmlns:a="http://schemas.microsoft.com/exchange/services/2006/messages"><a:RequestedGroupsSets><RequestedUnifiedGroupsSet><FilterType>All</FilterType><SortType>Relevance</SortType><SortDirection>Descending</SortDirection><GroupsLimit>1000</GroupsLimit></RequestedUnifiedGroupsSet></a:RequestedGroupsSets></a:GetUserUnifiedGroups></s:Body></s:Envelope>]]></textPostContent>
+</http-soap-action>

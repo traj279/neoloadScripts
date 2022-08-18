@@ -1,0 +1,49 @@
+<http-page executeResourcesDynamically="false"
+    name="/api/browser/edge/data/bloomfilter/x/3"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/268cea4f-1657-490a-8707-85c0b222ad22.zip"
+    slaProfileEnabled="false" thinkTime="609"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="268cea4f-1657-490a-8707-85c0b222ad22">
+    <embedded-action>56570a74-385d-4a5b-9ceb-92c2266e3fdc</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/browser/edge/data/bloomfilter/x/3"
+    path="/api/browser/edge/data/bloomfilter/x/3" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/268cea4f-1657-490a-8707-85c0b222ad22.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="smartscreen-prod.microsoft.com" slaProfileEnabled="false"
+    uid="56570a74-385d-4a5b-9ceb-92c2266e3fdc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_56570a74-385d-4a5b-9ceb-92c2266e3fdc</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_56570a74-385d-4a5b-9ceb-92c2266e3fdc.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="pushcert"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="flight"
+        recordRawValue="%7b%22etag%22%3a%22%5c%22qm71olkusrzjco0gwktyjttj0hwbotglow9dafvoc%2fq%3d%5c%22%22%2c%22ids%22%3a%5b%22p-r-1021007-4-5%2cp-r-99770-9-31%2cp-r-86682-4-37%2cp-r-73000-8-25%2cp-r-72999-9-23%2cp-r-70204-3-18%2cp-r-69385-1-5%2cp-r-68026-3-37%2cp-r-68490-1-3%2cp-r-68172-2-4%2cp-r-68175-1-6%2cp-r-68176-2-8%2cp-r-68179-1-3%2cp-r-68306-1-20%2cp-r-68307-1-3%2cp-d-68194-1-2%22%5d%2c%22settings%22%3a%7b%22names%22%3anull%2c%22ring%22%3a0%2c%22models%22%3anull%2c%22serviceclientmodeldetonate%22%3afalse%2c%22wdsifeedback%22%3afalse%2c%22npfeedbackurioverride%22%3anull%2c%22networkfilterdetonate%22%3afalse%2c%22servicephishdetonate%22%3afalse%2c%22servicephishdetonatelegacy%22%3afalse%2c%22serviceadhocdetonate%22%3afalse%2c%22npsettings2004%22%3atrue%2c%22updatesigningcert%22%3atrue%2c%22updatesigningcertforrs3rs4%22%3atrue%2c%22npsettings2004value%22%3a0%2c%22iscocoblockenabled%22%3afalse%2c%22npipblockoverridevalue%22%3a0%2c%22toptrafficv2enabled%22%3atrue%2c%22listapie5v2enabled%22%3atrue%2c%22isnppioverrideblockenabled%22%3atrue%2c%22toptrafficv2mobileflightenabled%22%3afalse%2c%22bloomfilterdeltaflag%22%3a1%2c%22srceopenabled%22%3atrue%2c%22iscurfid0loggingenabled%22%3atrue%2c%22iscurfid0blockingenabled%22%3afalse%2c%22updateonmissingetagenabled%22%3atrue%2c%22enableproxyleniency%22%3atrue%2c%22isarsfmsintegrationenabled%22%3atrue%2c%22enablenshumormatch%22%3atrue%2c%22applynshumorverdict%22%3afalse%2c%22enablenpskipnonweb%22%3afalse%2c%22sendgeomapinsettingstonewanaheimclient%22%3atrue%2c%22mtdthrottlefactor%22%3a0.0%2c%22unsilencemodelguid%22%3anull%7d%7d"
+        separator="="
+        value="{&quot;etag&quot;:&quot;\&quot;qm71olkusrzjco0gwktyjttj0hwbotglow9dafvoc/q=\&quot;&quot;,&quot;ids&quot;:[&quot;p-r-1021007-4-5,p-r-99770-9-31,p-r-86682-4-37,p-r-73000-8-25,p-r-72999-9-23,p-r-70204-3-18,p-r-69385-1-5,p-r-68026-3-37,p-r-68490-1-3,p-r-68172-2-4,p-r-68175-1-6,p-r-68176-2-8,p-r-68179-1-3,p-r-68306-1-20,p-r-68307-1-3,p-d-68194-1-2&quot;],&quot;settings&quot;:{&quot;names&quot;:null,&quot;ring&quot;:0,&quot;models&quot;:null,&quot;serviceclientmodeldetonate&quot;:false,&quot;wdsifeedback&quot;:false,&quot;npfeedbackurioverride&quot;:null,&quot;networkfilterdetonate&quot;:false,&quot;servicephishdetonate&quot;:false,&quot;servicephishdetonatelegacy&quot;:false,&quot;serviceadhocdetonate&quot;:false,&quot;npsettings2004&quot;:true,&quot;updatesigningcert&quot;:true,&quot;updatesigningcertforrs3rs4&quot;:true,&quot;npsettings2004value&quot;:0,&quot;iscocoblockenabled&quot;:false,&quot;npipblockoverridevalue&quot;:0,&quot;toptrafficv2enabled&quot;:true,&quot;listapie5v2enabled&quot;:true,&quot;isnppioverrideblockenabled&quot;:true,&quot;toptrafficv2mobileflightenabled&quot;:false,&quot;bloomfilterdeltaflag&quot;:1,&quot;srceopenabled&quot;:true,&quot;iscurfid0loggingenabled&quot;:true,&quot;iscurfid0blockingenabled&quot;:false,&quot;updateonmissingetagenabled&quot;:true,&quot;enableproxyleniency&quot;:true,&quot;isarsfmsintegrationenabled&quot;:true,&quot;enablenshumormatch&quot;:true,&quot;applynshumorverdict&quot;:false,&quot;enablenpskipnonweb&quot;:false,&quot;sendgeomapinsettingstonewanaheimclient&quot;:true,&quot;mtdthrottlefactor&quot;:0.0,&quot;unsilencemodelguid&quot;:null}}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="os"
+        recordRawValue="10.0.19044.1826.vb_release" separator="="
+        value="10.0.19044.1826.vb_release" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/octet-stream;application/x-patch-bsdiff;"/>
+    <header name="Accept-Encoding" value="identity"/>
+    <header name="Authorization" value="SmartScreenPlain eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQifQ=="/>
+    <header name="Content-Type" value="application/json; charset=utf-8"/>
+    <header name="Host" value="smartscreen-prod.microsoft.com"/>
+    <header name="If-None-Match" value="&quot;637957123032356315&quot;"/>
+    <header name="User-Agent" value="WebDefenseClient"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=86400&#xd;
+Content-Length: 5133&#xd;
+Content-Type: application/octet-stream&#xd;
+ETag: "637959930052749583"&#xd;
+Server: Microsoft-HTTPAPI/2.0&#xd;
+X-SmartScreen-Flight-Vector: enablenshumormatch,enableproxyleniency,isarsfmsintegrationenabled,iscurfid0loggingenabled,isnppioverrideblockenabled,listapie5v2enabled,npsettings2004,sendgeomapinsettingstonewanaheimclient,srceopenabled,toptrafficv2enabled,updateonmissingetagenabled,updatesigningcert,updatesigningcertforrs3rs4&#xd;
+Date: Sat, 13 Aug 2022 13:48:16 GMT&#xd;
+Connection: close</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

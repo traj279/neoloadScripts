@@ -1,0 +1,626 @@
+<http-page executeResourcesDynamically="false"
+    name="/HRApp/2-es2015.bcaba3a54ab37bbc4a6a.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    slaProfileEnabled="false" thinkTime="8479"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af">
+    <embedded-action>5296b85c-70a8-4551-a068-b762ea766bff</embedded-action>
+    <embedded-action>6c3b0f91-663c-4b20-af9c-8a1ca6d814e3</embedded-action>
+    <embedded-action>a07ba6ec-e45b-4d69-bdac-1763777ac501</embedded-action>
+    <embedded-action>d246f165-6fa6-4170-85fd-4a73a28d0556</embedded-action>
+    <embedded-action>83dc9aee-6865-4c26-9bb4-a477b0681c81</embedded-action>
+    <embedded-action>867bae88-081a-4057-80b9-8948bdc7b5d8</embedded-action>
+    <embedded-action>edfe3c98-d468-4673-a95f-0a9daf9439c9</embedded-action>
+    <embedded-action>0fabfdb3-8211-44e6-9124-2dc07537fae5</embedded-action>
+    <embedded-action>b873747c-a26a-416f-9b79-bf471a6cf9fa</embedded-action>
+    <embedded-action>1866f83a-599c-451c-a2d5-0d6fbb73c140</embedded-action>
+    <embedded-action>1546e697-3f25-428d-b6cc-569cbe29a9ea</embedded-action>
+    <embedded-action>24fe8039-2ff3-4b47-ad35-56fc53c69461</embedded-action>
+    <embedded-action>269bcc6b-4ae0-4f88-bf43-920999ac5732</embedded-action>
+    <embedded-action>c954e15c-6567-4121-b6d6-158c2771766d</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/HRApp/2-es2015.bcaba3a54ab37bbc4a6a.js"
+    path="/HRApp/2-es2015.bcaba3a54ab37bbc4a6a.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="14357"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="5296b85c-70a8-4551-a068-b762ea766bff" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5296b85c-70a8-4551-a068-b762ea766bff</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5296b85c-70a8-4551-a068-b762ea766bff.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/dashboard"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:44 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 14357&#xd;
+Connection: keep-alive&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Last-Modified: Tue, 19 Jul 2022 10:01:06 GMT&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/HRApp/4-es2015.4ebe7de5343e1a43dfd5.js"
+    path="/HRApp/4-es2015.4ebe7de5343e1a43dfd5.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="368396"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="6c3b0f91-663c-4b20-af9c-8a1ca6d814e3" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6c3b0f91-663c-4b20-af9c-8a1ca6d814e3</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6c3b0f91-663c-4b20-af9c-8a1ca6d814e3.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/dashboard"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:44 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 368396&#xd;
+Connection: keep-alive&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Last-Modified: Tue, 19 Jul 2022 10:01:18 GMT&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/HRApp/7-es2015.27674eeca5faa3e3f625.js"
+    path="/HRApp/7-es2015.27674eeca5faa3e3f625.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="92901"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="a07ba6ec-e45b-4d69-bdac-1763777ac501" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a07ba6ec-e45b-4d69-bdac-1763777ac501</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a07ba6ec-e45b-4d69-bdac-1763777ac501.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/dashboard"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:44 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 92901&#xd;
+Connection: keep-alive&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Last-Modified: Tue, 19 Jul 2022 10:01:18 GMT&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/HRApp/9-es2015.836f356d89c62c6dbd73.js"
+    path="/HRApp/9-es2015.836f356d89c62c6dbd73.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="16590"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="d246f165-6fa6-4170-85fd-4a73a28d0556" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d246f165-6fa6-4170-85fd-4a73a28d0556</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d246f165-6fa6-4170-85fd-4a73a28d0556.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/dashboard"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:44 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 16590&#xd;
+Connection: keep-alive&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Last-Modified: Tue, 19 Jul 2022 10:01:06 GMT&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/HRApp/6-es2015.d53f9f6a1ceb5cc7c2de.js"
+    path="/HRApp/6-es2015.d53f9f6a1ceb5cc7c2de.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="19567"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="83dc9aee-6865-4c26-9bb4-a477b0681c81" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_83dc9aee-6865-4c26-9bb4-a477b0681c81</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_83dc9aee-6865-4c26-9bb4-a477b0681c81.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/dashboard"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:44 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 19567&#xd;
+Connection: keep-alive&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Last-Modified: Wed, 03 Aug 2022 13:13:16 GMT&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/HRApp/15-es2015.981fbc1ab2b47ed9a08a.js"
+    path="/HRApp/15-es2015.981fbc1ab2b47ed9a08a.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="9985"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="867bae88-081a-4057-80b9-8948bdc7b5d8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_867bae88-081a-4057-80b9-8948bdc7b5d8</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_867bae88-081a-4057-80b9-8948bdc7b5d8.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/dashboard"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:44 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 9985&#xd;
+Connection: keep-alive&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Last-Modified: Thu, 28 Jul 2022 22:35:44 GMT&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/HRApp/25-es2015.330430eb22c176ece86f.js"
+    path="/HRApp/25-es2015.330430eb22c176ece86f.js" postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="140484"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="edfe3c98-d468-4673-a95f-0a9daf9439c9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_edfe3c98-d468-4673-a95f-0a9daf9439c9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_edfe3c98-d468-4673-a95f-0a9daf9439c9.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/dashboard"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:44 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 140484&#xd;
+Connection: keep-alive&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Last-Modified: Wed, 03 Aug 2022 13:13:50 GMT&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/HRApp/api/userService/getuserroles"
+    path="/HRApp/api/userService/getuserroles" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="456"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="0fabfdb3-8211-44e6-9124-2dc07537fae5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0fabfdb3-8211-44e6-9124-2dc07537fae5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0fabfdb3-8211-44e6-9124-2dc07537fae5.txt</requestContentFileDescription>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Origin" value="https://allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/dashboard"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <header name="X-CSRF-TOKEN" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:44 GMT&#xd;
+Content-Type: application/json&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+version-no: 800481&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"selectedRole":"myview"}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/HRApp/api/skillDB/getMySkillsCount"
+    path="/HRApp/api/skillDB/getMySkillsCount" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="671"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="b873747c-a26a-416f-9b79-bf471a6cf9fa" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b873747c-a26a-416f-9b79-bf471a6cf9fa</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b873747c-a26a-416f-9b79-bf471a6cf9fa.txt</requestContentFileDescription>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Origin" value="https://allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/myview/profile"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <header name="X-CSRF-TOKEN" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:45 GMT&#xd;
+Content-Type: application/json&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+version-no: 800481&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"searchKey":"All"}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/HRApp/api/skillDB/getMyCertificationsCount"
+    path="/HRApp/api/skillDB/getMyCertificationsCount" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="671"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="1866f83a-599c-451c-a2d5-0d6fbb73c140" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1866f83a-599c-451c-a2d5-0d6fbb73c140</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1866f83a-599c-451c-a2d5-0d6fbb73c140.txt</requestContentFileDescription>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Origin" value="https://allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/myview/profile"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <header name="X-CSRF-TOKEN" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:45 GMT&#xd;
+Content-Type: application/json&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+version-no: 800481&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"searchKey":""}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/HRApp/api/hrAppCommon/getSubtypeValueBySubtype"
+    path="/HRApp/api/hrAppCommon/getSubtypeValueBySubtype" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="858"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="1546e697-3f25-428d-b6cc-569cbe29a9ea" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1546e697-3f25-428d-b6cc-569cbe29a9ea</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1546e697-3f25-428d-b6cc-569cbe29a9ea.txt</requestContentFileDescription>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Origin" value="https://allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/myview/profile"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <header name="X-CSRF-TOKEN" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:45 GMT&#xd;
+Content-Type: application/json&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+version-no: 800481&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"type":"Max Retirement Year","subtype":"Max Retirement Year","isAdmin":0,"displayValue":0}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/HRApp/api/hrAppProfile/downloadProfilePic/I89430.png"
+    path="/HRApp/api/hrAppProfile/downloadProfilePic/I89430.png"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="24fe8039-2ff3-4b47-ad35-56fc53c69461" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_24fe8039-2ff3-4b47-ad35-56fc53c69461</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_24fe8039-2ff3-4b47-ad35-56fc53c69461.txt</requestContentFileDescription>
+    <parameter encodeName="false" encodeValue="true"
+        name="Sat%20Aug%2013%202022%2019:18:44%20GMT+0530%20(India%20Standard%20Time)"
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/myview/profile"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:45 GMT&#xd;
+Content-Type: application/octet-stream&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+version-no: 800481&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696&#xd;
+content-disposition: inline; filename = Z:\LocalApp\ProfilePic\I89430.png</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/HRApp/api/skillDB/getMyCertifications"
+    path="/HRApp/api/skillDB/getMyCertifications" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="2370"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="269bcc6b-4ae0-4f88-bf43-920999ac5732" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_269bcc6b-4ae0-4f88-bf43-920999ac5732</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_269bcc6b-4ae0-4f88-bf43-920999ac5732.txt</requestContentFileDescription>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Origin" value="https://allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/myview/profile"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <header name="X-CSRF-TOKEN" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:45 GMT&#xd;
+Content-Type: application/json&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+version-no: 800481&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"searchKey":"","pageNumber":1}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/HRApp/api/skillDB/getMySkills"
+    path="/HRApp/api/skillDB/getMySkills" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/6bd287ef-c95d-4c0d-a4a7-5b0a9e94a2af.zip"
+    recordedResponseCode="200" responseSize="4269"
+    serverUid="allianzindiaapps.web.allianz" slaProfileEnabled="false"
+    uid="c954e15c-6567-4121-b6d6-158c2771766d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c954e15c-6567-4121-b6d6-158c2771766d</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c954e15c-6567-4121-b6d6-158c2771766d.txt</requestContentFileDescription>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json"/>
+    <header name="Cookie" value="JSESSIONID=LLVQj830aNBeIcnWukFb2oiE2LmgEIGCAwi6IDoj.hrprodapp01; ApplicationGatewayAffinityCORS=6dc7e7e0c62b8104f2ff540306ebe8a2; ApplicationGatewayAffinity=6dc7e7e0c62b8104f2ff540306ebe8a2"/>
+    <header name="Host" value="allianzindiaapps.web.allianz"/>
+    <header name="Origin" value="https://allianzindiaapps.web.allianz"/>
+    <header name="Referer" value="https://allianzindiaapps.web.allianz/HRApp/myview/profile"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <header name="X-CSRF-TOKEN" value=""/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:45 GMT&#xd;
+Content-Type: application/json&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+version-no: 800481&#xd;
+Vary: Origin&#xd;
+Vary: Access-Control-Request-Method&#xd;
+Vary: Access-Control-Request-Headers&#xd;
+Request-Context: appId=cid-v1:71e5a466-0a34-453d-b37d-0c8b3cb48696</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"empIId":"I89430","searchKey":"All","pageNumber":1}]]></textPostContent>
+</http-action>

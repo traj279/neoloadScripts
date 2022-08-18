@@ -1,0 +1,39 @@
+<http-page executeResourcesDynamically="false"
+    name="/api/browser/edge/navigate/3" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/5bbdde86-d37d-41f9-a163-88d9fab16c63.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="5bbdde86-d37d-41f9-a163-88d9fab16c63">
+    <embedded-action>95f8e8a3-b0cc-4fd1-901d-db79f7c72cd7</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/browser/edge/navigate/3"
+    path="/api/browser/edge/navigate/3" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/5bbdde86-d37d-41f9-a163-88d9fab16c63.zip"
+    recordedResponseCode="200" responseSize="2741"
+    serverUid="nav.smartscreen.microsoft.com" slaProfileEnabled="false"
+    uid="95f8e8a3-b0cc-4fd1-901d-db79f7c72cd7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_95f8e8a3-b0cc-4fd1-901d-db79f7c72cd7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_95f8e8a3-b0cc-4fd1-901d-db79f7c72cd7.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="identity"/>
+    <header name="Authorization" value="SmartScreenHash eyJhdXRoSWQiOiIzODFkZGQxZS1lNjAwLTQyZGUtOTRlZC04YzM0YmY3M2YxNmQiLCAia2V5IjoiTHBxa3NQL0VXZVpocWFsckpmZVRwZz09IiwgImhhc2giOiJKTzFRMDBJRzNXRT0ifQ=="/>
+    <header name="Content-Type" value="application/json; charset=utf-8"/>
+    <header name="Host" value="nav.smartscreen.microsoft.com"/>
+    <header name="User-Agent" value="WebDefenseClient"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: max-age=0, private&#xd;
+Content-Length: 2741&#xd;
+Content-Type: application/json; charset=utf-8&#xd;
+Server: Microsoft-HTTPAPI/2.0&#xd;
+X-SmartScreen-Flight-Vector: EnableNsHumorMatch,enableProxyLeniency,IsArsFmsIntegrationEnabled,IsCurfId0LoggingEnabled,isCurfTstEnabled,isNpPIOverrideBlockEnabled,ListApiE5V2Enabled,npSettings2004,SendGeoMapInSettingsToNewAnaheimClient,SrcEOPEnabled,topTrafficV2Enabled,UpdateOnMissingEtagEnabled,updateSigningCert,updateSigningCertForRS3RS4&#xd;
+Date: Sat, 13 Aug 2022 13:48:15 GMT&#xd;
+Connection: close</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49","identity":{"user":{"locale":"en-US"},"device":{"id":null,"customId":null,"onlineIdTicket":"t=GwAWAd9tBAAUa9NnKxE2EcNyf3boVjyC/9kKG5YOZgAAEACAVagMl/W18yw4Dp+nbYfgAM1HdCmrmHEDA9cN1DxWB2w9/butsZEWPP1uBHDzbmWSrcYNxu2MdkiV6j69bnX1FDlBpq3Y1gZV8PF9kCz50rLkJPpEjbyooe3x1PYFDnFzgCkaClmImaYNUTWRiPUrG5DN0W62gJq3HNBQfeS9Anahbn2NBZ/rO+PN2DyEu3mt+jAP/RAs/7cqeLHQdF/etK5kpHKrT+CpIzuJUmkv7UVgTGeBlakzcbRad6oARk+BGnxY9btd9NWqhqkbvhKxDHWdLBFKS1svDFb/iebD/TKsFv8wMUJ8f9cAfI+AOGy6HwE=&p=","family":3,"locale":"en-US","osVersion":"10.0.19044.1826.vb_release","browser":{"internet_explorer":"9.11.19041.0"},"netJoinStatus":3,"enterprise":{},"cloudSku":false,"architecture":9},"caller":{"locale":"en-US","name":"anaheim","version":"103.0.1264.49 (Official build) "},"client":{"version":281483711217665,"data":{"topTraffic":"637811103879324684","customSynchronousLookupUris":"0","synchronousLookupUris":"637957123032356315","customSettings":"F95BA787499AB4FA9EFFF472CE383A14","edgeSettings":"2.0-7ea560d3f5773bd0a6091794418408e68e480da4e3b762e4dbee9bbc12d1c1fe"}}},"config":{"user":{"uriReputation":{"enforcedByPolicy":false,"level":"warn"}},"device":{"appControl":{"level":"anywhere"},"appReputation":{"enforcedByPolicy":false,"level":"warn"}}},"destination":{"uri":"http://www.neotys.com/recorder.html?lng=en","ip":null},"type":"top","forceServiceDetermination":false,"correlationId":"dfc423ee-2726-4a24-9449-61c10090fe2c","synchronous":false}]]></textPostContent>
+</http-action>

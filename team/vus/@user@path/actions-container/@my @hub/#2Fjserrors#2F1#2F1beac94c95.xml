@@ -1,0 +1,72 @@
+<http-page executeResourcesDynamically="false"
+    name="/jserrors/1/1beac94c95" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/2aba3611-7e29-4c10-8a18-26537053e694.zip"
+    slaProfileEnabled="false" thinkTime="2306"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2aba3611-7e29-4c10-8a18-26537053e694">
+    <embedded-action>57e9823f-65f5-4d35-8aa5-a1be349d0b5e</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/jserrors/1/1beac94c95"
+    path="/jserrors/1/1beac94c95" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/2aba3611-7e29-4c10-8a18-26537053e694.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="bam-cell.nr-data.net" slaProfileEnabled="false"
+    uid="57e9823f-65f5-4d35-8aa5-a1be349d0b5e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_57e9823f-65f5-4d35-8aa5-a1be349d0b5e.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_57e9823f-65f5-4d35-8aa5-a1be349d0b5e.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="a"
+        recordRawValue="422293167" separator="=" value="422293167" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="sa"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="v"
+        recordRawValue="1212.e95d35c" separator="=" value="1212.e95d35c" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="t"
+        recordRawValue="Unnamed%20Transaction" separator="="
+        value="Unnamed Transaction" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="rst"
+        recordRawValue="27766701" separator="=" value="27766701" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="ck"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false" name="ref"
+        recordRawValue="https://learning.edx.org/course/course-v1:LinuxFoundationX%2BLFS158x%2B1T2022/block-v1:LinuxFoundationX%2BLFS158x%2B1T2022%2Btype@sequential%2Bblock@f6f8a73dc38647eeb576dce791500901/block-v1:LinuxFoundationX%2BLFS158x%2B1T2022%2Btype@vertical%2Bblock@8c2c4e7be3ad4ce9aee850b419b7f432"
+        separator="="
+        value="https://learning.edx.org/course/course-v1:LinuxFoundationX%2BLFS158x%2B1T2022/block-v1:LinuxFoundationX%2BLFS158x%2B1T2022%2Btype@sequential%2Bblock@f6f8a73dc38647eeb576dce791500901/block-v1:LinuxFoundationX%2BLFS158x%2B1T2022%2Btype@vertical%2Bblock@8c2c4e7be3ad4ce9aee850b419b7f432" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="content-type" value="text/plain"/>
+    <header name="Cookie" value="JSESSIONID=9e44901422f82f06"/>
+    <header name="Host" value="bam-cell.nr-data.net"/>
+    <header name="Origin" value="https://learning.edx.org"/>
+    <header name="Referer" value="https://learning.edx.org/"/>
+    <header name="sec-ch-ua" value="&quot; Not;A Brand&quot;;v=&quot;99&quot;, &quot;Microsoft Edge&quot;;v=&quot;103&quot;, &quot;Chromium&quot;;v=&quot;103&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Sat, 13 Aug 2022 13:48:47 GMT&#xd;
+Content-Type: image/gif&#xd;
+Content-Length: 24&#xd;
+Connection: keep-alive&#xd;
+CF-Ray: 73a1e90caa32bb43-FRA&#xd;
+Access-Control-Allow-Origin: https://learning.edx.org&#xd;
+CF-Cache-Status: DYNAMIC&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-methods: GET, POST, PUT, HEAD, OPTIONS&#xd;
+Expect-CT: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"&#xd;
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=Bi3rnTHJyHICLLfT59jbNygm%2FpAfyBQMi5EAOla3inXy78G%2BM4Jlmp04iPfZb%2BmbVBCYeuOVtyWHj0GygPK3BamJAAYevz3Rogb6QJfIqVGm4Wjzmrs5nq%2FC32D8V7GPc2xA1BZE"}],"group":"cf-nel","max_age":604800}&#xd;
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}&#xd;
+Vary: Accept-Encoding&#xd;
+Server: cloudflare</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"sm":[{"params":{"name":"Ajax/Events/Excluded/Agent"},"stats":{"c":1}}],"xhr":[{"params":{"method":"POST","hostname":"bam-cell.nr-data.net","port":"443","protocol":"https","host":"bam-cell.nr-data.net:443","pathname":"/jserrors/1/1beac94c95","status":200},"metrics":{"count":1,"txSize":{"t":378},"rxSize":{"t":24},"duration":{"t":145},"cbTime":{"t":0},"time":{"t":27646704}}}]}]]></textPostContent>
+</http-action>

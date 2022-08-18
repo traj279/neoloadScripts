@@ -1,0 +1,48 @@
+<http-page executeResourcesDynamically="false"
+    name="/autofillservice/v1/pages/ChVDaHJvbWUvMTAzLjAuNTA2MC4xMTQSEAmhC6qYyojf9RIFDeReAsM="
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/8327f820-a87e-4b89-94ef-3ff539d4fe38.zip"
+    slaProfileEnabled="false" thinkTime="47"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8327f820-a87e-4b89-94ef-3ff539d4fe38">
+    <embedded-action>1bf75672-1eaf-4b43-b5ac-16e0c974ae87</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/plain; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/autofillservice/v1/pages/ChVDaHJvbWUvMTAzLjAuNTA2MC4xMTQSEAmhC6qYyojf9RIFDeReAsM="
+    path="/autofillservice/v1/pages/ChVDaHJvbWUvMTAzLjAuNTA2MC4xMTQSEAmhC6qYyojf9RIFDeReAsM="
+    postType="2"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/8327f820-a87e-4b89-94ef-3ff539d4fe38.zip"
+    recordedResponseCode="200" responseSize="20"
+    serverUid="edge.microsoft.com" slaProfileEnabled="false"
+    uid="1bf75672-1eaf-4b43-b5ac-16e0c974ae87" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1bf75672-1eaf-4b43-b5ac-16e0c974ae87</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1bf75672-1eaf-4b43-b5ac-16e0c974ae87.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="alt"
+        recordRawValue="proto" separator="=" value="proto" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-client-data" value="CLf4ygE="/>
+    <header name="sec-mesh-client-arch" value="x86_64"/>
+    <header name="sec-mesh-client-os" value="Windows"/>
+    <header name="accept-encoding" value="gzip, deflate, br"/>
+    <header name="sec-mesh-client-edge-version" value="103.0.1264.49"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="sec-mesh-client-webview" value="0"/>
+    <header name="sec-mesh-client-os-version" value="10.0.19044"/>
+    <header name="sec-mesh-client-edge-channel" value="stable"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: max-age=3012588, private&#xd;
+content-length: 20&#xd;
+content-type: text/plain; charset=utf-8&#xd;
+x-cache: CONFIG_NOCACHE&#xd;
+x-msedge-ref: Ref A: 630666639A4C4E8E889936AEA42B715B Ref B: FRAEDGE1308 Ref C: 2022-08-13T13:48:35Z&#xd;
+date: Sat, 13 Aug 2022 13:48:34 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
